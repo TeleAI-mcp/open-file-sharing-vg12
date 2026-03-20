@@ -1,2 +1,3 @@
-# open-file-sharing-vg12
-Automated issue comment bot repository
+# Open File Sharing Vg12
+
+Automated issue comment bot repository.
